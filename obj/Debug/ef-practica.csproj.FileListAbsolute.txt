@@ -1,0 +1,11 @@
+C:\Users\yeffr\projects\learn\cs\ef-practica\bin\Debug\ef-practica.exe.config
+C:\Users\yeffr\projects\learn\cs\ef-practica\bin\Debug\ef-practica.exe
+C:\Users\yeffr\projects\learn\cs\ef-practica\bin\Debug\ef-practica.pdb
+C:\Users\yeffr\projects\learn\cs\ef-practica\bin\Debug\DbLib.dll
+C:\Users\yeffr\projects\learn\cs\ef-practica\bin\Debug\DbLib.pdb
+C:\Users\yeffr\projects\learn\cs\ef-practica\obj\Debug\ef-practica.csproj.AssemblyReference.cache
+C:\Users\yeffr\projects\learn\cs\ef-practica\obj\Debug\ef-practica.csproj.SuggestedBindingRedirects.cache
+C:\Users\yeffr\projects\learn\cs\ef-practica\obj\Debug\ef-practica.csproj.CoreCompileInputs.cache
+C:\Users\yeffr\projects\learn\cs\ef-practica\obj\Debug\ef-practica.csproj.CopyComplete
+C:\Users\yeffr\projects\learn\cs\ef-practica\obj\Debug\ef-practica.exe
+C:\Users\yeffr\projects\learn\cs\ef-practica\obj\Debug\ef-practica.pdb

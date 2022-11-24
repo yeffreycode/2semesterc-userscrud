@@ -1,0 +1,6 @@
+C:\Users\yeffr\projects\learn\cs\ef-practica\DbLib\bin\Debug\DbLib.dll
+C:\Users\yeffr\projects\learn\cs\ef-practica\DbLib\bin\Debug\DbLib.pdb
+C:\Users\yeffr\projects\learn\cs\ef-practica\DbLib\obj\Debug\DbLib.csproj.AssemblyReference.cache
+C:\Users\yeffr\projects\learn\cs\ef-practica\DbLib\obj\Debug\DbLib.csproj.CoreCompileInputs.cache
+C:\Users\yeffr\projects\learn\cs\ef-practica\DbLib\obj\Debug\DbLib.dll
+C:\Users\yeffr\projects\learn\cs\ef-practica\DbLib\obj\Debug\DbLib.pdb
